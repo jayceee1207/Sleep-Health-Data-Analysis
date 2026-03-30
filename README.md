@@ -7,9 +7,12 @@ This project is an Exploratory Data Analysis (EDA) of a dataset containing 100,0
 
 # Tools & Libraries Used
 Python
-*Pandas (Data cleaning and manipulation)
-*Matplotlib & Seaborn (Data visualization)
-*Jupyter Notebook
+
+Pandas (Data cleaning and manipulation)
+
+Matplotlib & Seaborn (Data visualization)
+
+Jupyter Notebook
 
 # Key Insights Discovered
 1. The Caffeine Cliff: Visualized a clear drop in median sleep duration as caffeine intake approaches 400mg using boxplots.
